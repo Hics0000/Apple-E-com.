@@ -1,6 +1,4 @@
 # Preview
-> Link - https://adiyadav123.github.io/Apple-Website-Clone/
-<br> 
 
 > Home Page
 <img src="./assets/readme/first_page.png" width="auto" height="auto">
